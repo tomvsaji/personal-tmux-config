@@ -1,0 +1,6 @@
+# tpm and other plugin managers clone here
+plugins/
+
+# runtime state
+*.log
+.DS_Store
